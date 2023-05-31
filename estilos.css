@@ -1,0 +1,31 @@
+
+.cabecalho {
+font-family: 'Times New Roman';
+text-align: center;
+font-size: larger;
+font-style: italic;
+text-decoration: ;
+background-color: rgb(255, 105, 123);
+color:black;
+}
+
+.corpo {
+  background-color:rgb(255, 157, 157);
+  text-align: center;
+  font-size: medium;
+  font-family:'Calibria' ;
+  color:black;
+}
+
+
+.rodape {
+background-color: rgb(255, 75, 75);
+text-align: right;
+font-family: 'Times New Roman';
+color:black;
+}
+
+.espacamento {
+    background-color:rgb(255, 157, 157);
+    color: rgb(255, 157, 157)
+}
